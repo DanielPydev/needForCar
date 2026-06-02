@@ -1,0 +1,8 @@
+git log --pretty=format:"%h - %an - %s"
+
+------ COMMITS ------
+
+--- DANIEL PRÓSPERO DE FIGUEIREDO RGM: 114.070 ---
+f2a7739 - Daniel Próspero - Requisito Funcional(Usuário insere dados para compras no sistema) - Insere dados para compras no sistema;
+8a10bde - Daniel Próspero - Requisito Funcional(Usuário realiza login no sistema) - Realizar login no sistema;
+d0d961b - Daniel Próspero - Requisito Funcional(Usuário realiza cadastro no sistema)- Realizar cadastro no sistema;
