@@ -8,5 +8,10 @@ f2a7739 - Daniel Próspero - Requisito Funcional(Usuário insere dados para comp
 d0d961b - Daniel Próspero - Requisito Funcional(Usuário realiza cadastro no sistema)- Realizar cadastro no sistema;
 
 --- GABRIEL AUGUSTO PAULINO RODRIGUES RGM: 114.062 ---
-ca242ce - Gabrixlll - Requisito Funcional(Usuario realiza solicitações de reuniôes para negociaçôes) - Solicitar reuniôes para negociaçôes
+ca242ce - Gabrixlll - Requisito Funcional(Usuario realiza solicitações de reuniôes para negociaçôes) - Solicitar reuniões para negociaçôes
 1cb063b - Gabrixlll - Requisito Funcional(Usuário realiza o ininio da pré compra) - Iniciar uma pré compra
+
+--- PEDRO PEREIRA DE SOUZA RGM: 114.047 ---
+cf2e36e - Pedro Pereira - Requisito Funcional(ADM atende a pré-início de compra) - Atender a pré-início de compra
+18ab13a - Pedro Pereira - Requisito Funcional(ADM realiza login no sistema) - Realizar login no Sistema como ADM
+9abf866 - Pedro Pereira - Requisito Funcional(ADM realiza cadastro no sistema) - Realizar cadastro no sistema como ADM
